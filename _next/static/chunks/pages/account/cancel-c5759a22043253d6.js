@@ -1,2 +1,0 @@
-(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[3468],{48643:function(n,u,t){"use strict";t.r(u),t.d(u,{__N_SSP:function(){return r},default:function(){return _}});var c=t(651),r=!0;function _(){return(0,c.jsx)(c.Fragment,{children:(0,c.jsx)("div",{})})}},597:function(n,u,t){(window.__NEXT_P=window.__NEXT_P||[]).push(["/account/cancel",function(){return t(48643)}])}},function(n){n.O(0,[4736,2888,9774,179],function(){return n(n.s=597)}),_N_E=n.O()}]);
-//# sourceMappingURL=cancel-c5759a22043253d6.js.map
