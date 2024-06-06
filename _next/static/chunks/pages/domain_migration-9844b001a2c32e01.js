@@ -1,0 +1,2 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[286],{83794:function(n,u,t){"use strict";t.r(u),t.d(u,{__N_SSP:function(){return i},default:function(){return r}});var _=t(651),i=!0;function r(){return(0,_.jsx)("div",{})}},24120:function(n,u,t){(window.__NEXT_P=window.__NEXT_P||[]).push(["/domain_migration",function(){return t(83794)}])}},function(n){n.O(0,[2888,9774,179],function(){return n(n.s=24120)}),_N_E=n.O()}]);
+//# sourceMappingURL=domain_migration-9844b001a2c32e01.js.map
