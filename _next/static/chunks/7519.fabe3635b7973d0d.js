@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[7519],{27519:function(t,n,c){c.d(n,{L:function(){return a}});function a(t){let n=Math.floor(t/60),c=Math.floor(n/60),a=String(Math.floor(t)%60).padStart(2,"0"),o=String(n%60).padStart(2,"0");return 0===c?"".concat(o,":").concat(a):"".concat(c,":").concat(o,":").concat(a)}}}]);
+//# sourceMappingURL=7519.fabe3635b7973d0d.js.map
