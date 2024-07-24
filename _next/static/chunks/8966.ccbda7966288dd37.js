@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[8966],{58966:function(E,_,e){var n;e.d(_,{g:function(){return u}});let u=((n={}).SEND_PROMPT="SEND_PROMPT",n.CREATE_LAUNCHER="CREATE_LAUNCHER",n)}}]);
-//# sourceMappingURL=8966.ccbda7966288dd37.js.map
