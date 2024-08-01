@@ -1,2 +1,0 @@
-(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[9390],{58447:function(n,_,u){(window.__NEXT_P=window.__NEXT_P||[]).push(["/gpts/editor/[slug]",function(){return u(36270)}])}},function(n){n.O(0,[2205,4198,6636,4089,9504,4384,7003,8500,1612,3183,2349,4818,9788,89,5080,4984,6634,7339,7906,5162,7437,4315,6803,8557,9857,9695,114,3008,9738,631,2531,1124,9523,2888,9774,179],function(){return n(n.s=58447)}),_N_E=n.O()}]);
-//# sourceMappingURL=[slug]-71cfba71494fbadf.js.map
