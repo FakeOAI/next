@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[6694],{26694:function(t,n,r){r.d(n,{L:function(){return a}});function a(t){let n=Math.floor(t/60),r=Math.floor(n/60),a=String(Math.floor(t)%60).padStart(2,"0"),o=String(n%60).padStart(2,"0");return 0===r?`${o}:${a}`:`${r}:${o}:${a}`}}}]);
+//# sourceMappingURL=6694.9e70f3b1ac6c426c.js.map
